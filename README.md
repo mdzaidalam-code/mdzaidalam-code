@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Md Zaid Alam Ansari
 
-<!--
-**mdzaidalam-code/mdzaidalam-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+🌱 Currently learning React.js and Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building projects and improving my problem-solving skills
+
+🚀 Interested in Frontend Development and Software Engineering
+
+### 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Git
+* GitHub
+
+### 📌 Current Goals
+
+* Master React.js
+* Build quality projects
+* Strengthen DSA
+* Gain internship experience
+
+### 📫 Connect with me
+
+* LinkedIn: linkedin.com/in/md-zaid-alam-ansari-3a5a7138b
+* GitHub: https://github.com/mdzaidalam-code
+
