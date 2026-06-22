@@ -26,6 +26,6 @@
 
 ### 📫 Connect with me
 
-* LinkedIn: linkedin.com/in/md-zaid-alam-ansari-3a5a7138b
+* LinkedIn: https://www.linkedin.com/in/md-zaid-alam-ansari-3a5a7138b
 * GitHub: https://github.com/mdzaidalam-code
 
